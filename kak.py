@@ -1,1 +1,1 @@
-print("my branch my rules")
+print("my branch my rule")
